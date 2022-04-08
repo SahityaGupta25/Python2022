@@ -1,5 +1,5 @@
 #asking name & favourite color
-# then print vasu likes GTR
+# then print sahitya  likes GTR
 name= ('Sahitya ')
 car = (' GTR ')
 print(name + 'loves' + car)
